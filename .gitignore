@@ -1,0 +1,8 @@
+.env
+venv/
+arXiv_scientific dataset.csv
+__pycache__/
+*.pyc
+Phase_1.png
+Phase_2.png
+sprint_planning_1.txt

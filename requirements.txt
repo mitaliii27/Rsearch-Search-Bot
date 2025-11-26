@@ -1,0 +1,10 @@
+# Minimal project dependencies for ArXxv-Research-Bot
+# Install these inside a virtual environment (venv) before running the app.
+
+streamlit
+pandas
+python-dotenv
+sentence-transformers
+tqdm
+pinecone-client
+google-generative-ai
